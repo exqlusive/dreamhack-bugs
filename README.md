@@ -45,7 +45,5 @@
     - Either by age or by visitors
 - Losing food
     - By age
-
-
 - Broken equipment
 - Unsatisfied customers
