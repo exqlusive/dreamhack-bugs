@@ -54,7 +54,9 @@
 - Instant remove command from user.
 
 ##### Profile Store
+> Changing the display of a user their profile (account)
 - Footer (10,000)
 - Description (50,000)
 - Achievements (99,000)
+- Profile Color (250,000)
 - Emblem (1,000,000)
