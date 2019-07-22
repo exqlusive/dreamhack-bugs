@@ -60,3 +60,8 @@
 - Achievements (99,000)
 - Profile Color (250,000)
 - Emblem (1,000,000)
+
+### Achievemnts
+- Alpha Tester (Have helped testing the Alpha version)
+- First milionair (First person that reached 1,000,000)
+- First milionair (First person that reached 1,000,000)
