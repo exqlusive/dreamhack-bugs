@@ -40,7 +40,7 @@
 
 #### Random Events
 - Sponsorship (Random)
-    - Pays up to 45% of venue rental costs (10% chance)
+    - Pays up to `45%` of venue rental costs (10% chance)
 - Broken equipment -> Penalty, `10%` of used equipment
 - Unsatisfied customers -> Penalty, `15%` of incomes
 - Internet Outage -> Penalty, `7%` of incomes
