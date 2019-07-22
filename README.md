@@ -2,10 +2,10 @@
 - Venue Rental
 
 #### Ways of income
-- Selling food*
-- Selling expo equipment*
-- Selling BYOC tickets
-- Selling Visitor tickets
+- Selling Food*
+- Selling Expo Equipment*
+- Selling BYOC Tickets
+- Selling Visitor Tickets
 
 *Food and expo equipment only available in certain venues*
 
@@ -44,9 +44,9 @@
 - Broken equipment -> Penalty, `15%` of used equipment
 
 
-- Unsatisfied customers -> Penalty, `20%` of incomes
+- Unsatisfied Customers -> Penalty, `20%` of incomes
 - Internet Outage -> Penalty, `14%` of incomes
-- DDoS attack -> Penalty, `11%` of incomes
+- DDoS Attack -> Penalty, `11%` of incomes
 - Cleaning Costs -> Penalty, `9%` of incomes
 - Medic Costs (like bandages etc.) -> Penalty, `13%` of incomes
 
