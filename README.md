@@ -41,14 +41,10 @@
 #### Random Events
 - Sponsorship (Random)
     - Pays up to 45% of venue rental costs (10% chance)
-- Losing Switches
-    - Either by age or by visitors
-- Losing food
-    - By age
-- Broken equipment??
-- Unsatisfied customers
-- Internet Outage??
-- DDoS attack??
+- Broken equipment -> Penalty, `10%` of used equipment
+- Unsatisfied customers -> Penalty, `15%` of incomes
+- Internet Outage -> Penalty, `7%` of incomes
+- DDoS attack -> Penalty, `5%` of incomes
 
 #### Message Handling
 - Event countdown -> Remove message when done.
