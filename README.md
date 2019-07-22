@@ -45,8 +45,10 @@
     - Either by age or by visitors
 - Losing food
     - By age
-- Broken equipment
+- Broken equipment??
 - Unsatisfied customers
+- Internet Outage??
+- DDoS attack??
 
 #### Message Handling
 - Event countdown -> Remove message when done.
