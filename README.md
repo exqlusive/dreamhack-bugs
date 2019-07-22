@@ -54,3 +54,9 @@
 - Event countdown -> Remove message when done.
     - Display results in a new message + extra costs
 - Instant remove command from user.
+
+##### Profile Store
+- Footer (10,000)
+- Description (50,000)
+- Achievements (99,000)
+- Emblem (1,000,000)
