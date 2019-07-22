@@ -41,10 +41,14 @@
 #### Random Events
 - Sponsorship (Random)
     - Pays up to `45%` of venue rental costs (10% chance)
-- Broken equipment -> Penalty, `10%` of used equipment
-- Unsatisfied customers -> Penalty, `15%` of incomes
-- Internet Outage -> Penalty, `7%` of incomes
-- DDoS attack -> Penalty, `5%` of incomes
+- Broken equipment -> Penalty, `15%` of used equipment
+
+
+- Unsatisfied customers -> Penalty, `20%` of incomes
+- Internet Outage -> Penalty, `14%` of incomes
+- DDoS attack -> Penalty, `11%` of incomes
+- Cleaning Costs -> Penalty, `9%` of incomes
+- Medic Costs (like bandages etc.) -> Penalty, `13%` of incomes
 
 #### Message Handling
 - Event countdown -> Remove message when done.
