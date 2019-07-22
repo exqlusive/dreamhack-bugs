@@ -47,3 +47,8 @@
     - By age
 - Broken equipment
 - Unsatisfied customers
+
+#### Message Handling
+- Event countdown -> Remove message when done.
+    - Display results in a new message + extra costs
+- Instant remove command from user.
